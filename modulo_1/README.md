@@ -1,4 +1,6 @@
-# Template de projeto Vue 3 + Pinia
+# Módulo 1 - JS, Vue JS e Git/GitHub
+
+## Template de projeto Vue 3 + Pinia
 
 Este diretório possui uma estrutura base de projeto Vue que deve ser utilizada para o desenvolvimento da avaliação do módulo 1 do devpool.
 
