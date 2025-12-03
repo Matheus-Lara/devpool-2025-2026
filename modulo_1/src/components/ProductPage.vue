@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h3>Componentes Desacoplados com Mediator</h3>
+    <h3>Componentes Desacoplados com Pinia</h3>
     <ProductImage />
     <ProductOptions />
     <AddToCartButton />
